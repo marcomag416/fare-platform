@@ -101,7 +101,7 @@ consultare i log del singolo servizio.
 * Entrare nel container e nell'environment 
 
 ```bash
-docker exec -it fare-invenio_web-ui_1 /bin/bash
+docker exec -it fare-platform_web-ui_1 /bin/bash
 ```
 
 * Creazione utente di prova 
